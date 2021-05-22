@@ -1,0 +1,6 @@
+C:\Users\Developer\Desktop\TP1-Obrigatório\Divisão\bin\Debug\Divisão.exe.config
+C:\Users\Developer\Desktop\TP1-Obrigatório\Divisão\bin\Debug\Divisão.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Divisão\bin\Debug\Divisão.pdb
+C:\Users\Developer\Desktop\TP1-Obrigatório\Divisão\obj\Debug\Divisão.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\TP1-Obrigatório\Divisão\obj\Debug\Divisão.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Divisão\obj\Debug\Divisão.pdb

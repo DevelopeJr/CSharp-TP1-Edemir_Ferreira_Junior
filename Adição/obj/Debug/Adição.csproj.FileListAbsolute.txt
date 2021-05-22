@@ -1,0 +1,7 @@
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\bin\Debug\Adição.exe.config
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\bin\Debug\Adição.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\bin\Debug\Adição.pdb
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\obj\Debug\Adição.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\obj\Debug\Adição.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\obj\Debug\Adição.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Adição\obj\Debug\Adição.pdb

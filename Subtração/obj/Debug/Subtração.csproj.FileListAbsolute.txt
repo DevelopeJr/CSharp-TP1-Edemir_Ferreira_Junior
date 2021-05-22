@@ -1,0 +1,7 @@
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\bin\Debug\Subtração.exe.config
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\bin\Debug\Subtração.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\bin\Debug\Subtração.pdb
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\obj\Debug\Subtração.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\obj\Debug\Subtração.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\obj\Debug\Subtração.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Subtração\obj\Debug\Subtração.pdb

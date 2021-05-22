@@ -1,0 +1,6 @@
+C:\Users\Developer\Desktop\TP1-Obrigatório\Multiplicação\bin\Debug\Multiplicação.exe.config
+C:\Users\Developer\Desktop\TP1-Obrigatório\Multiplicação\bin\Debug\Multiplicação.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Multiplicação\bin\Debug\Multiplicação.pdb
+C:\Users\Developer\Desktop\TP1-Obrigatório\Multiplicação\obj\Debug\Multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\TP1-Obrigatório\Multiplicação\obj\Debug\Multiplicação.exe
+C:\Users\Developer\Desktop\TP1-Obrigatório\Multiplicação\obj\Debug\Multiplicação.pdb
