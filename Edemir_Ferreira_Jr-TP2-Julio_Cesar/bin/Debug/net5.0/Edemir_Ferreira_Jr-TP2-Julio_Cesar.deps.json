@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Edemir_Ferreira_Jr-TP2-Julio_Cesar/1.0.0": {
+        "runtime": {
+          "Edemir_Ferreira_Jr-TP2-Julio_Cesar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Edemir_Ferreira_Jr-TP2-Julio_Cesar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

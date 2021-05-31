@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj",
+        "projectName": "Edemir_Ferreira_Jr-TP2-Julio_Cesar",
+        "projectPath": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
