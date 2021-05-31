@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj": {}
+    "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar-New\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj": {
+    "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar-New\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj",
+        "projectUniqueName": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar-New\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj",
         "projectName": "Edemir_Ferreira_Jr-TP2-Julio_Cesar",
-        "projectPath": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj",
+        "projectPath": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar-New\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Junior-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\obj\\",
+        "outputPath": "C:\\Users\\Developer\\Documents\\1-Prof-Julio-Cesar\\Edemir_Ferreira_Jr-TP2-Julio_Cesar-New\\Edemir_Ferreira_Jr-TP2-Julio_Cesar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
